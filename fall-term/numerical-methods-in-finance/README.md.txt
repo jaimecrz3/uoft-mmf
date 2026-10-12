@@ -1,32 +1,29 @@
 # Numerical Methods in Finance — MMF 2021H
 
-Selected coursework from the Master of Mathematical Finance at the
-University of Toronto.
+**Master of Mathematical Finance — University of Toronto**  
+**Fall 2026**
 
-The course focuses on numerical and computational methods for modelling
+## Course Overview
+
+This course focuses on numerical and computational methods for modelling
 uncertainty, pricing financial instruments, measuring risk, portfolio
-optimization, and forecasting.
+optimization, and financial forecasting.
+
+The course develops practical applications of probability, random walks,
+Monte Carlo simulation, stochastic processes, derivatives pricing,
+risk analysis, and statistical modelling.
 
 ## Coursework
 
 ### Homeworks
 
-- Assignments completed throughout the course
+Shorter assignments and numerical exercises completed throughout the course.
 
-## Projects
+[View homeworks →](./homeworks/)
 
-The course includes three applied projects designed as standalone
-portfolio pieces.
+### Projects
 
-### 1. Pairs Trading
-Monte Carlo analysis of a Coke–Pepsi pairs trade, including stochastic
-price modelling, correlation, mean reversion, P&L distributions, and
-entry/exit rules.
+The course includes three applied projects intended as standalone
+portfolio pieces. Each project is maintained in a separate GitHub repository.
 
-[View repository →](https://github.com/jaimecrz3/pairs-trading-monte-carlo)
-
-### 2. Credit Risk
-Coming soon.
-
-### 3. Macroeconomic Forecast
-Coming soon.
+[View projects →](./projects/)
