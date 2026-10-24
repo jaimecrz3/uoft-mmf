@@ -45,7 +45,34 @@ Topics covered:
 - Potential Future Exposure (PFE)
 - Credit Valuation Adjustment (CVA)
 
-[View Assignment 1](./assignments/01-market-and-counterparty-credit-risk/CorzoGaldoJaime - marketRisk&CCR_Assignment.ipynb)
+[View Assignment 1](./assignments/01-market-and-counterparty-credit-risk/CorzoGaldoJaime%20-%20marketRisk&CCR_Assignment.ipynb)
+
+---
+
+### Assignment 2 — Regulatory Capital and Climate Risk
+
+This assignment examines bank balance-sheet dynamics, regulatory capital, and
+the incorporation of climate-related credit-risk adjustments into
+risk-weighted assets.
+
+Topics covered:
+
+- Bank balance-sheet dynamics
+- Equity-to-assets ratio
+- Credit losses and their impact on bank capital
+- Basel I risk weights
+- Risk-Weighted Assets (RWA)
+- Equity-to-RWA capital ratios
+- Basel IRB credit-risk capital
+- Probability of Default (PD)
+- Conditional Probability of Default (CPD)
+- Loss Given Default (LGD)
+- Exposure at Default (EAD)
+- OSFI climate scenario adjustments
+- Climate-adjusted PD and LGD
+- Impact of climate risk on RWA
+
+[View Assignment 2](./assignments/02-regulatory-and-climate-risk/CorzoGaldoJaime%20-%20RegulatoryCapital&ClimateRisk_Assignment.ipynb)
 
 ---
 
