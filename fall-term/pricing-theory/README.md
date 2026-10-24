@@ -48,7 +48,7 @@ Topics covered:
 - Market completeness
 - Pricing additional contingent claims using state prices
 
-[View Assignment 1](./assignments/01-forwards-and-one-period-models/CorzoGaldoJaime20%-20%Assignment120%-20%PricingTheory.pdf)
+[View Assignment 1](./assignments/01-forwards-and-one-period-models/CorzoGaldoJaime%20-%20Assignment1%20-%20PricingTheory.pdf)
 
 ---
 
