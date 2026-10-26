@@ -2,7 +2,7 @@
 
 
 
-\*\*Master of Mathematical Finance — University of Toronto\*\*  
+\*\*Master of Mathematical Finance — University of Toronto\*\*
 
 \*\*Fall 2026\*\*
 
@@ -87,4 +87,6 @@ First applied machine learning problem set.
 
 
 Coming soon.
+
+
 
