@@ -52,4 +52,21 @@ Topics covered:
 
 ---
 
+### Assignment 2 — Multiperiod Models and Martingales
+
+The second assignment extends the no-arbitrage framework to multi-period binomial models and foreign exchange markets, focusing on risk-neutral measures, martingale properties, and stopping-time theory.
+
+Topics covered:
+
+- Siegel's Paradox: FX forward pricing, reciprocal exchange rates, and changes of numeraire
+- Risk-neutral measures: Derivation of domestic and foreign risk-neutral probabilities and the Radon–Nikodym derivative
+- Martingales on binomial trees: Discounted asset prices, conditional expectations, and the tower property
+- Real-world vs. risk-neutral probabilities: Martingale, submartingale, and supermartingale properties
+- Stopping times: Trading rules based on observed price movements
+- Optional Stopping Theorem: Implications for market timing and the limitations of strategies requiring future information
+
+[View Assignment 2](./assignments/02-multiperiod-models-and-martingales/CorzoGaldoJaime%20-%20Assignment2%20-%20PricingTheory.pdf)
+
+---
+
 Additional assignments will be added throughout the course.
