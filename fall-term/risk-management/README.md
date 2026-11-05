@@ -76,4 +76,30 @@ Topics covered:
 
 ---
 
+### Assignment 3 — Anti-Money Laundering: Customer Risk Rating
+
+Type: Team Assignment (3 members)
+
+This assignment focuses on developing a Customer Risk Rating (CRR) model to identify clients with elevated money laundering and terrorist financing risk.
+
+The task involves a binary classification problem distinguishing high-risk from non-high-risk clients using standardized customer information and transaction-related features.
+
+Topics covered:
+
+- Customer Risk Rating (CRR) modelling
+- Know Your Customer (KYC) information and transaction patterns
+- Data preprocessing and feature selection
+- Training and testing methodology
+- Class weighting and sampling considerations
+- Model selection and hyperparameter tuning
+- Classification threshold selection
+- Model evaluation using ROC-AUC, precision, recall, and F1 score
+- Feature importance and model interpretability
+- Assessment of counterintuitive feature relationships and modelling limitations
+- The assignment emphasizes the importance of balancing predictive performance with interpretability and sound risk-management judgment in financial crime prevention.
+
+[View Assignment 2](./assignments/03-anti-money-laundering/aml-client-risk-rating.pdf)
+
+---
+
 Additional assignments will be added throughout the course.
