@@ -98,7 +98,7 @@ Topics covered:
 - Assessment of counterintuitive feature relationships and modelling limitations
 - The assignment emphasizes the importance of balancing predictive performance with interpretability and sound risk-management judgment in financial crime prevention.
 
-[View Assignment 2](./assignments/03-anti-money-laundering/aml-client-risk-rating.pdf)
+[View Assignment 3](./assignments/03-anti-money-laundering/aml-client-risk-rating.pdf)
 
 ---
 
