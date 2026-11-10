@@ -55,8 +55,21 @@ Topics covered:
 - Comparison with Markowitz mean-variance optimization
 
 [View Assignment 2 - Report](./assignments/02-boosting-neural-networks-and-hrp/assignment-02.pdf)
+
 [View Assignment 2 - Python Code](./assignments/02-boosting-neural-networks-and-hrp/assignment-02.py)
+
+### Data and Results
+
+- Data: The assignment includes instructor-provided, synthetic datasets covering credit-risk classification, asset prices for portfolio construction, and an optional financial-news NLP exercise.
+
+- Results and Outputs: Generated figures and experimental outputs.
 
 ### Environment
 
-Python dependencies for the assignments are documented in requirements.txt.
+Assignment 2 uses a dedicated Python virtual environment. Dependencies can be installed using:
+
+python -m pip install -r requirements.txt
+
+Run this command from the Assignment 2 directory after activating the virtual environment.
+
+The .venv/ directory is excluded from version control.
