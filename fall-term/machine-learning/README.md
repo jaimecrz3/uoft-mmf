@@ -34,10 +34,29 @@ The course covers the full machine learning workflow, from problem formulation a
 
 First applied machine learning problem set.
 
-[View Assignment 1](./assignments/CorzoGaldoJaime%20-%20ML%20-%20Assigment1.pdf)
+[View Assignment 1](./assignments/01-machine-learning-foundations/CorzoGaldoJaime%20-%20ML%20-%20Assigment1.pdf)
 
 ---
 
-### Assignment 2
+### Assignment 2 — Gradient Boosting, Neural Networks and Hierarchical Risk Parity
 
-*Coming soon.*
+The second assignment focuses on the practical implementation and evaluation of machine learning models for credit-risk classification and portfolio construction.
+
+Topics covered:
+- Decision-tree entropy and information gain
+- Backpropagation and gradient computation
+- XGBoost classification and hyperparameter selection
+- Feature importance and SHAP explanations
+- Feedforward neural network architectures
+- Regularization and overfitting
+- Model comparison using out-of-sample performance
+- Hierarchical Risk Parity (HRP)
+- Portfolio allocation and diversification
+- Comparison with Markowitz mean-variance optimization
+
+[View Assignment 2 - Report](./assignments/02-boosting-neural-networks-and-hrp/assignment-02.pdf)
+[View Assignment 2 - Python Code](./assignments/02-boosting-neural-networks-and-hrp/assignment-02.py)
+
+### Environment
+
+Python dependencies for the assignments are documented in requirements.txt.

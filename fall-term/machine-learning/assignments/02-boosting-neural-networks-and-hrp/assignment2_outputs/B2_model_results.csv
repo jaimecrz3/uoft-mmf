@@ -1,0 +1,5 @@
+Architecture,Regularization,Test AUC,Validation final loss
+Shallow-wide (64),No regularization,0.8327526132404182,0.25852057337760925
+Shallow-wide (64),With L2,0.8342096927462781,0.25490811467170715
+Deep-narrow (32-16-8),No regularization,0.8067363530778163,0.2685367166996002
+Deep-narrow (32-16-8),With L2,0.826392144440925,0.25304993987083435

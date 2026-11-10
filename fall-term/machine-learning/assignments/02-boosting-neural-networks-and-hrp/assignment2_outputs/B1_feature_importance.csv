@@ -1,0 +1,11 @@
+feature,Gain (relative %),SHAP (relative %),Mean abs SHAP (log-odds)
+revolving_utilization,29.921324,32.11428,0.74023116
+debt_ratio,14.066221,13.8639145,0.31956196
+age,6.3770404,9.733886,0.22436517
+monthly_income,4.6901674,4.2452893,0.09785353
+num_past_due_30_59,10.864866,14.266469,0.3288408
+num_past_due_60_89,15.825965,14.482951,0.33383068
+num_open_credit_lines,4.835497,3.1264365,0.07206407
+num_dependents,3.966567,0.7797402,0.01797294
+credit_bureau_score_z,4.528426,4.245593,0.09786053
+application_channel_id,4.9239316,3.141434,0.072409764
