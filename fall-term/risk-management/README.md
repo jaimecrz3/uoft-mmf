@@ -102,4 +102,24 @@ Topics covered:
 
 ---
 
-Additional assignments will be added throughout the course.
+### Assignment 4 — Treasury and Liquidity Risk
+
+This assignment analyzes interest rate risk and liquidity management across Canada's five largest banks: RBC, TD, BMO, Scotiabank, and CIBC.
+
+Using publicly available Q3 2026 financial reports, the analysis compares key profitability, interest rate sensitivity, and regulatory liquidity metrics across institutions and reporting periods.
+
+Topics covered:
+
+- Net Interest Income (NII) analysis and quarterly trends
+- Year-over-year comparisons of cumulative NII
+- NII sensitivity to a +100 basis-point interest rate shock
+- Economic Value of Equity (EVE) sensitivity
+- Differences between earnings-based and economic-value risk measures
+- Impact of floating-rate mortgage preferences on interest rate risk
+- Liquidity Coverage Ratio (LCR)
+- High-Quality Liquid Assets (HQLA) and net cash outflows
+- Net Stable Funding Ratio (NSFR)
+- Available Stable Funding (ASF) and Required Stable Funding (RSF)
+- Comparative analysis of Canadian bank treasury and liquidity risk
+
+[View Assignment 4](./assignments/04-treasury-and-liquidity-risk/treasury-and-liquidity-risk.pdf)
