@@ -122,4 +122,4 @@ Topics covered:
 - Available Stable Funding (ASF) and Required Stable Funding (RSF)
 - Comparative analysis of Canadian bank treasury and liquidity risk
 
-[View Assignment 4](./assignments/04-treasury-and-liquidity-risk/treasury-and-liquidity-risk.pdf)
+[View Assignment 4](./assignments/04-treasury-and-liquidity-risk/treasury_and_liquidity_risk.pdf)
